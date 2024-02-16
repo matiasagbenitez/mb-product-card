@@ -1,4 +1,4 @@
-# mb-product-card
+# mab-product-card
 
 ## Ejemplo
 
@@ -8,7 +8,7 @@ import {
   ProductImage,
   ProductTitle,
   ProductButtons,
-} from 'mb-product-card';
+} from 'mab-product-card';
 
 <ProductCard
   product={product}
